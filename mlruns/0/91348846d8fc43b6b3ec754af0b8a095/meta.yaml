@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/churn_project/mlruns/0/91348846d8fc43b6b3ec754af0b8a095/artifacts
+end_time: 1758426539330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91348846d8fc43b6b3ec754af0b8a095
+run_name: luxuriant-hog-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758426533053
+status: 3
+tags: []
+user_id: HP
