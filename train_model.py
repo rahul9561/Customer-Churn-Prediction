@@ -14,7 +14,7 @@ os.makedirs("models", exist_ok=True)
 
 # Load dataset
 logger.info("Loading dataset...")
-data = pd.read_csv("data/churnData.csv")
+data = pd.read_csv("data/ChurnData.csv")
 
 # Features & Target
 X = data.drop("churn", axis=1)
